@@ -1,2 +1,7 @@
 毕业不容易啊
+<<<<<<< HEAD
 master的改动
+=======
+#改过的master
+sjdfjsldjfklsjdfjskldjflks
+>>>>>>> newbranch
